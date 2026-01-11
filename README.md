@@ -5,3 +5,6 @@ A map representing the top 10 most populous US states and territories is shown. 
 It is observed that the highest populated race in the 10 most populous US states is the Asian race with a percentage of 65.3% against its general population. The second most populated race in the 10 most populous US states is the Black race with a percentage of 56.9% against its general population.
 
 From the statistics above, it can be concluded that the White race is not the dominant race in the eastern part of the United State of America especially in the north-eastern region.  Another conclusion that can be drawn is that the eastern part of the United State of America is densely populated by the Asians, Blacks and other race when regarded as a whole.
+
+![alt text](https://github.com/OceeDiTT/Population-Analysis-by-race-in-top-10-US-states/blob/main/Population_Analysis-MapImage.jpg?raw=true)
+
